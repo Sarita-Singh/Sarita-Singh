@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
     I am Sarita, an undergrad in Computer Science and Engineering at IIT Kharagpur.
 <!--
 **Sarita-Singh/Sarita-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
